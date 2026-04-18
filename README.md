@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/-html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ## About the Project
-A simple HTML project developed as an **exam for the Web Programming course**, taught by [Tarsis Marinho](https://github.com/tarsisms).
+A simple HTML project developed as an **exam for the Web Programming course**, taught by [Ítalo Carlo](https://github.com/italocarlo06).
 
 Every student in my class was tasked with creating a website for the 2026 World Cup to demonstrate the features learned during the classes.
 
